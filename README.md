@@ -4,7 +4,7 @@ Word2Vec in Dutch
 ------------
 In deze repository maak je kennis met Word2Vec model.
 Naast dat het model ontzettend veelzijdig is, ziet het er ook nog eens spectaculair uit:
-![alt text](https://github.com/victorr0/WordVectors/blob/master/plot_voorbeeld.png "Voorbeeld T-SNE plot")
+![alt text](https://github.com/victorr0/WordVectors/plot_voorbeeld.png "Voorbeeld T-SNE plot")
 <i>Voorbeeld van een plot</i>
 
 Vereisten
